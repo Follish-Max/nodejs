@@ -11,7 +11,7 @@ var comments = [
     {
         name:'张三',
         message:'今天真冷！',
-        dataTime:'2015-10-16'
+        dataTime:'2018-12-11  18:21:23'
     }
 ]
 
@@ -35,7 +35,12 @@ http
         } else if(pathname === '/pinglun') {
             var comment = parseObj.query
 
-            comment.dataTime = '2018-12-11 16:40:23'
+            var myDate = new Date()
+
+
+
+            //comment.dataTime = myDate.toLocaleDateString()
+            comment.dataTime =myDate.toLocaleDateString() + '\t\t' + myDate.toLocaleTimeString()
 
             comments.unshift(comment)
             res.statusCode = 302
