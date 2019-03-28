@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42e09f3b-9923-4e97-9ded-44b63a85ee09" name="Default Changelist" comment="" />
+    <list default="true" id="42e09f3b-9923-4e97-9ded-44b63a85ee09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day-02/代码无分号问题.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-01/ip地址和端口号.js" beforeDir="false" afterPath="$PROJECT_DIR$/day-01/ip地址和端口号.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,38 +19,40 @@
     <session id="348204093">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.53" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="5" />
-          <entry key="js" value="6" />
+          <entry key="html" value="7" />
+          <entry key="js" value="14" />
           <entry key="json" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="5" />
+          <entry key="HTML" value="7" />
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="6" />
+          <entry key="JavaScript" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="425" />
-          <entry key="js" value="803" />
+          <entry key="js" value="1158" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="425" />
-          <entry key="JavaScript" value="803" />
+          <entry key="JavaScript" value="1158" />
         </counts>
       </usages-collector>
     </session>
@@ -54,43 +60,97 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-02/tpl.html">
+        <entry file="file://$PROJECT_DIR$/day-02/读取目录.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            <state relative-caret-position="21">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day-02/template.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-02/代码无分号问题.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="86" column="9" selection-start-line="86" selection-start-column="9" selection-end-line="86" selection-end-column="9" />
+            <state relative-caret-position="399">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-01/http.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-01/Content-Type.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-02/浏览器中使用art-template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-01/ip地址和端口号.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
               <folding>
-                <element signature="e#787#1297#1" expanded="true" />
-                <element signature="e#1369#2163#1" expanded="true" />
-                <element signature="e#2234#3212#1" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-02/Apache目录列表.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day-02/模仿Apache.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="903">
-              <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+            <state relative-caret-position="231">
+              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-02/node中使用art-template.js">
+        <entry file="file://$PROJECT_DIR$/day-01/node中的js.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="168">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-01/写入文件.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-01/读取文件.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,6 +171,8 @@
         <option value="$PROJECT_DIR$/day-02/tpl.html" />
         <option value="$PROJECT_DIR$/day-02/node中使用art-template.js" />
         <option value="$PROJECT_DIR$/day-02/Apache目录列表.js" />
+        <option value="$PROJECT_DIR$/day-01/ip地址和端口号.js" />
+        <option value="$PROJECT_DIR$/day-02/代码无分号问题.js" />
       </list>
     </option>
   </component>
@@ -122,45 +184,47 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/art-template/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/camel-case/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/clean-css/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/deep-is/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/detect-node/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/escodegen/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/estraverse/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/esutils/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/fast-levenshtein/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/he/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/html-minifier/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/is-keyword-js/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/jquery/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/js-tokens/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/levn/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/lower-case/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/merge-source-map/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/ncname/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/no-case/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/optionator/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/param-case/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/prelude-ls/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/relateurl/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/type-check/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/upper-case/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/day-02/feedback/node_modules/xml-char-classes/package.json" />
       <path value="$PROJECT_DIR$/day-02/feedback/public/lib/bootstrap/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/acorn/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/art-template/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/camel-case/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/clean-css/node_modules/source-map/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/clean-css/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/commander/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/deep-is/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/escodegen/node_modules/source-map/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/escodegen/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/esprima/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/estraverse/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/esutils/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/fast-levenshtein/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/he/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/html-minifier/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/is-keyword-js/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/js-tokens/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/levn/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/lower-case/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/merge-source-map/node_modules/source-map/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/merge-source-map/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/no-case/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/optionator/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/param-case/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/prelude-ls/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/relateurl/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/source-map/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/type-check/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/uglify-js/node_modules/source-map/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/uglify-js/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/upper-case/package.json" />
-      <path value="$PROJECT_DIR$/day-02/node_modules/wordwrap/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="96" />
-    <option name="y" value="58" />
-    <option name="width" value="1245" />
+    <option name="x" value="360" />
+    <option name="y" value="101" />
+    <option name="width" value="1450" />
     <option name="height" value="945" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -177,6 +241,11 @@
               <item name="nodejs" type="b2602c69:ProjectViewProjectNode" />
               <item name="nodejs" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="nodejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nodejs" type="462c0819:PsiDirectoryNode" />
+              <item name="day-02" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -185,7 +254,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day-02" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project/Follish-Vue-Project1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/.nvm/versions/node/v6.5.0/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -217,16 +286,18 @@
       <workItem from="1543933939444" duration="5577000" />
       <workItem from="1544111735666" duration="703000" />
       <workItem from="1544262325241" duration="121000" />
+      <workItem from="1552986866497" duration="5448000" />
+      <workItem from="1553135358147" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7763000" />
+    <option name="totallyTimeSpent" value="13224000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="77" y="47" width="996" height="756" extended-state="0" />
+    <frame x="288" y="81" width="1160" height="756" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21352313" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -238,7 +309,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3298969" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -252,41 +323,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day-02/读取目录.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-02/模仿Apache.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-02/浏览器中使用art-template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="24" column="56" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="24" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-02/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="68" column="8" lean-forward="true" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-02/tpl.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day-02/package-lock.json" />
     <entry file="file://$PROJECT_DIR$/day-02/Apache目录列表.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="903">
@@ -301,16 +338,93 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/day-02/tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day-02/template.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="86" column="9" selection-start-line="86" selection-start-column="9" selection-end-line="86" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-02/读取目录.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-02/代码无分号问题.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-01/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-01/Content-Type.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-02/浏览器中使用art-template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-01/ip地址和端口号.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
           <folding>
-            <element signature="e#787#1297#1" expanded="true" />
-            <element signature="e#1369#2163#1" expanded="true" />
-            <element signature="e#2234#3212#1" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-01/node中的js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-01/写入文件.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-01/读取文件.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-02/模仿Apache.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
